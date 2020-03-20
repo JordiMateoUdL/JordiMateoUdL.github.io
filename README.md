@@ -26,10 +26,10 @@ Methodology
   * Find solutions.
   * Don't give up.
 
-Projects
-----------
+Projects (Course 2019- 2020)
+----------------------------
 
-- BeeNote
+- BeeNote 
 - AFavour
 - TournMaster
 - Urband
