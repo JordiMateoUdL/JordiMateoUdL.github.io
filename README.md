@@ -14,7 +14,7 @@ Methodology
 
 * **Project-Based Course**: Learning by doing.
 * **Competitive Team-Based Learning**:
-  * Work in groups (2-3).
+  * Work in groups (4).
   * Build an APP.
   * Create a Start-Up.
   * Win the final contest (*START-APP*).
