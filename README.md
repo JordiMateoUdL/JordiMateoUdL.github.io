@@ -1,19 +1,14 @@
 ## Projecte Integrador: START-APP
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.
+<img align="left" width="100" height="100" src="![logo](https://user-images.githubusercontent.com/61190134/77157394-8d3bb200-6aa1-11ea-8f5b-3f8db803cd6e.png)">
 
-                                     -- Steve Jobs
+*Instructors*: [Jordi Mateo Fornés](http:jordimateofornes.com) and [Sergio Sayago](http:sergiosayagoblog.wordpress.com)
+
+*Carried out*: [Grau en Tècniques d'Interacció Digital i de Computació](http://www.grauinteraccioicomputacio.udl.cat/ca/index.html)
+
+*University*: University of Lleida - Campus Igualada - Escola Politècnica Superior
                                      
-                                     
- Goals
-------
-
-* Apply all the learned methods in a real project.
-* Be ambitious, creative, confident and persistent.
-* Work hard.
-* Take risks.
-* The philosophy must no be: I need to do to pass the course, must be this project is my dream, who knows if maybe is the seed to a future successful company.
-
+                                    
 Methodology
 -----------
 
@@ -39,7 +34,3 @@ Projects
 - TournMaster
 - Urband
 - Easy-Tutor
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
