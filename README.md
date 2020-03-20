@@ -1,6 +1,6 @@
 ## Projecte Integrador: START-APP
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/61190134/77157672-1d79f700-6aa2-11ea-9948-3b693b81a951.png">
+<img align="left" width="250" height="120" src="https://user-images.githubusercontent.com/61190134/77157672-1d79f700-6aa2-11ea-9948-3b693b81a951.png">
 
 *Instructors*: [Jordi Mateo Fornés](http:jordimateofornes.com) and [Sergio Sayago](http:sergiosayagoblog.wordpress.com)
 
