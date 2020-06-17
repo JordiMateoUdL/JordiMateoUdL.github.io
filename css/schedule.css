@@ -227,7 +227,7 @@ Main Components
     padding: .8em;
 }
 
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 50px) {
     .cd-schedule .events .single-event {
         width: 40%;
     }
