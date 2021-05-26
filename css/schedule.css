@@ -267,7 +267,7 @@ Main Components
         margin-bottom: 0;
     }
     .cd-schedule .events .events-group > ul {
-        height: 500px;
+        height: 300px;
         /* reset style */
         display: block;
         overflow: visible;
